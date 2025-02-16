@@ -12,8 +12,8 @@
 Two datasets were used as follows:  
 
 1. **MADAR Dataset**  
-   You can refer to the official dataset website through the link, and you can download it from the provided link. This dataset includes phrases written in Arabic dialects from 25 Arab cities. It was constructed by translating each phrase in the dataset into 25 dialects (hence, this dataset is referred to as the "BTE Corpus" — a collection of parallel sentences).  
+   You can refer to the official dataset website through [the link](https://camel.abudhabi.nyu.edu/madar-parallel-corpus/), and you can download it from the provided link https://drive.google.com/drive/folders/1e4jO5Pymg04ls71XJecrGkwJYI51LfDh. This dataset includes phrases written in Arabic dialects from 25 Arab cities. It was constructed by translating each phrase in the dataset into 25 dialects (hence, this dataset is referred to as the "BTE Corpus" — a collection of parallel sentences).  
    Make sure to thoroughly read the dataset description to help you structure and understand the data effectively.  
 
 2. **QADI Dataset**  
-   Available at the provided link, this dataset was automatically collected from tweets. It encompasses a wide range of Arabic dialects across 18 different countries. The resulting dataset contains 540,000 tweets from 2,525 users distributed equally across the 18 Arab countries.  
+   Available at the provided link https://huggingface.co/datasets/Abdelrahman-Rezk/Arabic_Dialect_Identification, this dataset was automatically collected from tweets. It encompasses a wide range of Arabic dialects across 18 different countries. The resulting dataset contains 540,000 tweets from 2,525 users distributed equally across the 18 Arab countries.  
